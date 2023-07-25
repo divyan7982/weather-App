@@ -1,15 +1,13 @@
-Sure, here's a sample README file for a Weather App:
-
 # Weather App
 
-The Weather App is a web application that allows users to check the current weather and forecast for different locations around the world. It provides users with real-time weather data, including temperature, humidity, wind speed, and weather conditions.
 ![image](https://github.com/divyan7982/weather-App/assets/131895243/943a8c99-1402-47e9-8d03-104d88c17e88)
+
+The Weather App is a web application that allows users to check the current weather and forecast for different locations around the world. It provides users with real-time weather data, including temperature, humidity, wind speed, and weather conditions.
 
 ## Features
 
-- Search for weather information of various locations by city name or ZIP code.
-- View the current weather conditions, including temperature, humidity, wind speed, and weather description.
-- Get a 5-day weather forecast, showing the expected weather conditions for the upcoming days.
+- Search for weather information of various locations by city name.
+- View the current weather conditions, including temperature, humidity, wind speed, and pressure.
 - Interactive and user-friendly interface for ease of use.
 
 ## Technologies Used
@@ -71,4 +69,3 @@ The Weather App is open-source and available under the [MIT License](LICENSE).
 - This project was inspired by the need for a simple and accessible weather application.
 - Thanks to the [OpenWeatherMap](https://openweathermap.org/) API for providing weather data.
 
----

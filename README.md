@@ -3,8 +3,7 @@ Sure, here's a sample README file for a Weather App:
 # Weather App
 
 The Weather App is a web application that allows users to check the current weather and forecast for different locations around the world. It provides users with real-time weather data, including temperature, humidity, wind speed, and weather conditions.
-
-
+![image](https://github.com/divyan7982/weather-App/assets/131895243/943a8c99-1402-47e9-8d03-104d88c17e88)
 
 ## Features
 
@@ -24,7 +23,7 @@ The Weather App is a web application that allows users to check the current weat
 1. Clone the repository to your local machine:
 
 ```
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/divyan2708/weather-app.git
 ```
 
 2. Navigate to the project directory:
@@ -57,7 +56,7 @@ npm start
 
 4. Open your web browser and visit `http://localhost:3000` to access the Weather App.
 
-5. Enter the name of a city or ZIP code in the search bar and click the "Search" button to get the weather information.
+5. Enter the name of a city in the search bar and click the "Search" button to get the weather information.
 
 ## Contributing
 
@@ -73,7 +72,3 @@ The Weather App is open-source and available under the [MIT License](LICENSE).
 - Thanks to the [OpenWeatherMap](https://openweathermap.org/) API for providing weather data.
 
 ---
-
-Replace the placeholders like `[Your App Name]`, `[Your Description]`, and `[Your GitHub Username]` with appropriate information relevant to your Weather App. The example assumes that the project is already hosted on GitHub.
-
-Remember that the README file serves as an essential piece of documentation for your project, providing users and potential contributors with information on how to set up and use the app. Customize it as needed to best suit your specific application.

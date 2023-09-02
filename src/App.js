@@ -1,13 +1,11 @@
-import React from "react";
-import "./style.css";
-import Temp from "./components/weather/temp";
-
-const App = () => {
+import WeatherBox from './components/weatherBox.component';
+import React from 'react'
+function App() {
   return (
-    <>
-    <Temp />
-    </>
+    <div className="App">
+      <WeatherBox/>
+    </div>
   );
-};
+}
 
 export default App;

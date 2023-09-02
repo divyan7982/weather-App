@@ -1,6 +1,6 @@
 # Weather App
 
-![image](https://github.com/divyan7982/weather-App/assets/131895243/943a8c99-1402-47e9-8d03-104d88c17e88)
+![ezgif com-video-to-gif](https://github.com/divyan7982/weather-App/assets/131895243/91dc5375-4c44-4f29-867c-f839251d632e)
 
 The Weather App is a web application that allows users to check the current weather and forecast for different locations around the world. It provides users with real-time weather data, including temperature, humidity, wind speed, and weather conditions.
 
